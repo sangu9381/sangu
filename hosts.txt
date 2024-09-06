@@ -1,0 +1,60 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+10.10.02.222	vara-sys-02
+10.10.03.222	vara-sys-03
+10.10.04.222	vara-sys-04
+10.10.05.222	vara-sys-05
+10.10.06.222	vara-sys-06
+10.10.07.222	vara-sys-07
+10.10.08.222	vara-sys-08
+10.10.09.222	vara-sys-09
+10.10.10.222	vara-sys-10
+10.10.11.222	vara-sys-11
+10.10.12.222	vara-sys-12
+10.10.13.222	vara-sys-13
+10.10.14.222	vara-sys-14
+10.10.15.222	vara-sys-15
+10.10.16.222	vara-sys-16
+10.10.17.222	vara-sys-17
+10.10.18.222	vara-sys-18
+10.10.19.222	vara-sys-19
+10.10.20.222	vara-sys-20
+10.10.21.222	vara-sys-21
+10.10.22.222	vara-sys-22
+10.10.23.222	vara-sys-23
+10.10.24.222	vara-sys-24
+10.10.25.222	vara-sys-25
+10.10.26.222	vara-sys-26
+10.10.27.222	vara-sys-27
+10.10.28.222	vara-sys-28
+10.10.29.222	vara-sys-29
+10.10.30.222	vara-sys-30
+10.10.31.222	vara-sys-31
+10.10.32.222	vara-sys-32
+10.10.33.222	vara-sys-33
+10.10.34.222	vara-sys-34
+10.10.35.222	vara-sys-35
+10.10.36.222	vara-sys-36
+10.10.37.222	vara-sys-37
+10.10.38.222	vara-sys-38
+10.10.39.222	vara-sys-39
+10.10.40.222	vara-sys-40
